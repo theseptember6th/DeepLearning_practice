@@ -1,4 +1,1 @@
-<a href="./2_RNN_note.pdf#page=5" target="_blank">
-    Click here to view the PDF (Page 5)
-</a>
-
+[Click here to view the PDF](./2_RNN_note.pdf)
